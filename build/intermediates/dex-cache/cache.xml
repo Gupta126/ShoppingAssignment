@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\rahul.gupta\Desktop\android-shoppingcart-master\android-shoppingcart-master\demo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\rahul.gupta\Desktop\android-shoppingcart-master\android-shoppingcart-master\demo\build\intermediates\pre-dexed\debug\classes-64d3e233140480c4b5f2a3a680e26193a00cd65a.jar" />
+    </item>
+    <item
+        jar="C:\Users\rahul.gupta\Desktop\android-shoppingcart-master\android-shoppingcart-master\demo\build\intermediates\exploded-aar\android-shoppingcart-master\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="959c8ee99315f38e7cd13acbc3068426c2a44896">
+        <dex dex="C:\Users\rahul.gupta\Desktop\android-shoppingcart-master\android-shoppingcart-master\demo\build\intermediates\pre-dexed\debug\classes-961462ce4c92ff7467c59cb2ef37b87e38e726ff.jar" />
+    </item>
+    <item
+        jar="C:\Users\rahul.gupta\Desktop\android-shoppingcart-master\android-shoppingcart-master\demo\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\rahul.gupta\Desktop\android-shoppingcart-master\android-shoppingcart-master\demo\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-790715d57971a1d9c01c9bf668e99aaea672c4e3.jar" />
+    </item>
+    <item
+        jar="D:\SDK\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\rahul.gupta\Desktop\android-shoppingcart-master\android-shoppingcart-master\demo\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-edac7719713beec49d9aa14e3050935de4afb86b.jar" />
+    </item>
+    <item
+        jar="C:\Users\rahul.gupta\Desktop\android-shoppingcart-master\android-shoppingcart-master\demo\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\rahul.gupta\Desktop\android-shoppingcart-master\android-shoppingcart-master\demo\build\intermediates\pre-dexed\debug\classes-e50079485827a55041ec349ae67737e1ef732b0e.jar" />
+    </item>
+
+</items>
